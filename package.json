@@ -1,0 +1,25 @@
+{
+  "name": "wally",
+  "version": "1.0.0",
+  "description": "Un bot cree avec amour",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "KingsRequin",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "axios": "^1.4.0",
+    "discord-api-types": "^0.37.43",
+    "discord.js": "^13.16.0",
+    "googleapis": "^118.0.0",
+    "jimp": "^0.22.8",
+    "node-cron": "^3.0.2",
+    "os": "^0.1.2",
+    "os-utils": "^0.0.14",
+    "pm2-gui-fr": "^0.1.4"
+  }
+}

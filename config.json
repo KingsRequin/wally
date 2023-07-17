@@ -1,0 +1,13 @@
+{
+    "DISCORD_CHANNEL_ID" : "xxxxxxxxxxxxxxxxxxxx",
+    "CHANNEL_ID" : "xxxxxxxxxxxxxxxxxxxx",
+    "LOG_CHANNEL_ID": "xxxxxxxxxxxxxxxxxxxxxxxx",
+    "YOUTUBE_API_KEY": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "TOKEN" : "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "CLIEN_ID" : "xxxxxxxxxxxxxxxxxxxxx",
+    "activity": {
+        "name": "TwitchName",
+        "type": "STREAMING",
+        "url": "https://www.twitch.tv/TwitchName"
+    }
+}
